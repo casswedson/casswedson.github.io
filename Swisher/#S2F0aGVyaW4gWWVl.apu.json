@@ -1,0 +1,5 @@
+[
+  { "rule": "grenade", "active": true, "exclude": false },
+  { "rule": "9x19mm JHP", "active": true, "exclude": false },
+  { "rule": "5.56 NATO M855", "active": true, "exclude": false }
+]
